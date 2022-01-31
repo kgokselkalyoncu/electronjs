@@ -1,0 +1,22 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "Electron JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgokselkalyoncu/electronjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgokselkalyoncu/electronjs/issues"
+  },
+  "homepage": "https://github.com/kgokselkalyoncu/electronjs#readme",
+  "dependencies": {
+    "electron": "^16.0.8"
+  }
+}
